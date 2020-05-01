@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>820835085.jpg</filename>
+        <path>data/scenes/valsubset\820835085.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>8d</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>158</xmin>
+                        <ymin>333</ymin>
+                        <xmax>247</xmax>
+                        <ymax>438</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>8d</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>440</xmin>
+                        <ymin>399</ymin>
+                        <xmax>528</xmax>
+                        <ymax>503</ymax>
+                </bndbox>
+        </object>
+</annotation>        
