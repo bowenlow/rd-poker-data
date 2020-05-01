@@ -1,5 +1,0 @@
-classes= 52 #number of objects, in our case is 52
-train  = train2.txt
-valid  = val.txt
-names = card.names
-backup = backup
